@@ -6,6 +6,7 @@ public class A {
 		
 		System.out.println("MyProject");
 		System.out.println("fdfdsds");
+		System.out.println("csfafasfa");
 	}
 
 }
